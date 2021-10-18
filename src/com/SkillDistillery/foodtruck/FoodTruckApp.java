@@ -34,7 +34,7 @@ public class FoodTruckApp {
 			FoodTruck truck = new FoodTruck(name, foodType, rating);
 			
 			arrayOfFoodTrucks [i] = truck;
-			
+			System.out.println(arrayOfFoodTrucks [i]);
 		}
 		
 		
